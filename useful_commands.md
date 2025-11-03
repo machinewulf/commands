@@ -23,7 +23,7 @@ brought up below!
 | Command | Meaning                 | Easier                                     |
 |---------|-------------------------|--------------------------------------------|
 | cd      | change directory        | change directory/folder                    |
-| pwd     | print working directory | current directory/folder                   |
+| pwd     | print working directory | current directory/folder pathway           |
 | mv      | move/rename             | move/rename to \[new pathway/name\]        |
 | rm      | remove                  | delete                                     |
 | ll      | long list               | shows contents of current directory/folder |
