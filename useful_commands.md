@@ -346,6 +346,8 @@ history | grep "[text]"
 
 ### More Specific Script-Related Commands
 
+<br>
+
 ``` bash
 cut -c1-[100] [alignment file]
 ```
