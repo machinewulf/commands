@@ -217,6 +217,19 @@ tail [file/script]
 
 -   View the last 10 lines of a file
 
+``` bash
+wc -l [file/script]
+```
+
+-   Counts the lines in a file
+
+``` bash
+wc -c [file/script]
+```
+
+-   Counts the characters in a file
+
+
 <br>
 
 ### Submitting Scripts
@@ -334,6 +347,13 @@ myquota
 ```
 
 -   Shows how much storage you have in your project folders
+
+``` bash
+clear
+```
+
+-   Clears the screen, moves everything up - it's not deleted
+-   CTRL+l is the shortcut command for this
 
 ``` bash
 history
