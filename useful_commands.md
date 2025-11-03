@@ -124,6 +124,13 @@ ll- h
 
 -   Shows you the contents of a folder/directory using Gb and Mb, etc
 
+``` bash
+exit
+```
+
+-   Exits the host, if this is just a terminal opened on your personal account, it will close the tab
+-   If you're on SCW Hawk, it sends you back to the institution gateway (i.e. part 1 of logging on)
+
 <br>
 
 ### Editing: For files/scripts
